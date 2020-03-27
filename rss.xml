@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>GeneXu&apos;s Blog</title>
+        <link>https://blog.xujun.pro</link>
+        <description></description>
+        <lastBuildDate>Fri, 27 Mar 2020 02:09:46 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://blog.xujun.pro/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emotion]]></title>
+            <link>https://blog.xujun.pro/2019/12/04/emotion/</link>
+            <guid>https://blog.xujun.pro/2019/12/04/emotion/</guid>
+            <pubDate>Tue, 03 Dec 2019 17:55:22 GMT</pubDate>
+            <description><![CDATA[
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Food]]></title>
+            <link>https://blog.xujun.pro/2019/12/04/food/</link>
+            <guid>https://blog.xujun.pro/2019/12/04/food/</guid>
+            <pubDate>Tue, 03 Dec 2019 17:55:23 GMT</pubDate>
+            <description><![CDATA[
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://blog.xujun.pro/2019/12/05/hello-world/</link>
+            <guid>https://blog.xujun.pro/2019/12/05/hello-world/</guid>
+            <pubDate>Wed, 04 Dec 2019 17:55:23 GMT</pubDate>
+            <description><![CDATA[Quick StartCreate a new postRun serverGenerate static filesDeploy to remote sites
+Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick Start
+Create a new post
+$ hexo new "My New Post"
+
+1More info: Writing
+Run server
+$ hexo server
+
+1More info: Server
+Generate static files
+$ hexo generate
+
+1More info: Generating
+Deploy to remote sites
+$ hexo deploy
+
+1More info: Deployment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Life]]></title>
+            <link>https://blog.xujun.pro/2019/12/05/life/</link>
+            <guid>https://blog.xujun.pro/2019/12/05/life/</guid>
+            <pubDate>Wed, 04 Dec 2019 17:55:24 GMT</pubDate>
+            <description><![CDATA[
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Travel]]></title>
+            <link>https://blog.xujun.pro/2019/12/06/travel/</link>
+            <guid>https://blog.xujun.pro/2019/12/06/travel/</guid>
+            <pubDate>Thu, 05 Dec 2019 17:55:26 GMT</pubDate>
+            <description><![CDATA[
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Technology]]></title>
+            <link>https://blog.xujun.pro/2019/12/06/technology/</link>
+            <guid>https://blog.xujun.pro/2019/12/06/technology/</guid>
+            <pubDate>Thu, 05 Dec 2019 17:55:25 GMT</pubDate>
+            <description><![CDATA[
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-01]]></title>
+            <link>https://blog.xujun.pro/2018/12/02/hexo-theme-sakura-01/</link>
+            <guid>https://blog.xujun.pro/2018/12/02/hexo-theme-sakura-01/</guid>
+            <pubDate>Sat, 01 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-02]]></title>
+            <link>https://blog.xujun.pro/2018/12/03/hexo-theme-sakura-02/</link>
+            <guid>https://blog.xujun.pro/2018/12/03/hexo-theme-sakura-02/</guid>
+            <pubDate>Sun, 02 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-04]]></title>
+            <link>https://blog.xujun.pro/2018/12/05/hexo-theme-sakura-04/</link>
+            <guid>https://blog.xujun.pro/2018/12/05/hexo-theme-sakura-04/</guid>
+            <pubDate>Tue, 04 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-03]]></title>
+            <link>https://blog.xujun.pro/2018/12/04/hexo-theme-sakura-03/</link>
+            <guid>https://blog.xujun.pro/2018/12/04/hexo-theme-sakura-03/</guid>
+            <pubDate>Mon, 03 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-05]]></title>
+            <link>https://blog.xujun.pro/2018/12/06/hexo-theme-sakura-05/</link>
+            <guid>https://blog.xujun.pro/2018/12/06/hexo-theme-sakura-05/</guid>
+            <pubDate>Wed, 05 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-06]]></title>
+            <link>https://blog.xujun.pro/2018/12/07/hexo-theme-sakura-06/</link>
+            <guid>https://blog.xujun.pro/2018/12/07/hexo-theme-sakura-06/</guid>
+            <pubDate>Thu, 06 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-07]]></title>
+            <link>https://blog.xujun.pro/2018/12/08/hexo-theme-sakura-07/</link>
+            <guid>https://blog.xujun.pro/2018/12/08/hexo-theme-sakura-07/</guid>
+            <pubDate>Fri, 07 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-08]]></title>
+            <link>https://blog.xujun.pro/2018/12/09/hexo-theme-sakura-08/</link>
+            <guid>https://blog.xujun.pro/2018/12/09/hexo-theme-sakura-08/</guid>
+            <pubDate>Sat, 08 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-09]]></title>
+            <link>https://blog.xujun.pro/2018/12/10/hexo-theme-sakura-09/</link>
+            <guid>https://blog.xujun.pro/2018/12/10/hexo-theme-sakura-09/</guid>
+            <pubDate>Sun, 09 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hexo-Theme-Sakura-10]]></title>
+            <link>https://blog.xujun.pro/2018/12/11/hexo-theme-sakura-10/</link>
+            <guid>https://blog.xujun.pro/2018/12/11/hexo-theme-sakura-10/</guid>
+            <pubDate>Mon, 10 Dec 2018 22:16:01 GMT</pubDate>
+            <description><![CDATA[hexo-sakura主题使用教程]]></description>
+            <enclosure url="https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,130 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GeneXu's Blog",
+    "home_page_url": "https://blog.xujun.pro",
+    "feed_url": "https://blog.xujun.pro/feed.json",
+    "items": [
+        {
+            "id": "https://blog.xujun.pro/2019/12/04/emotion/",
+            "url": "https://blog.xujun.pro/2019/12/04/emotion/",
+            "title": "Emotion",
+            "summary": "\n",
+            "date_modified": "2019-12-03T17:55:22.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2019/12/04/food/",
+            "url": "https://blog.xujun.pro/2019/12/04/food/",
+            "title": "Food",
+            "summary": "\n",
+            "date_modified": "2019-12-03T17:55:23.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2019/12/05/hello-world/",
+            "url": "https://blog.xujun.pro/2019/12/05/hello-world/",
+            "title": "Hello World",
+            "summary": "Quick StartCreate a new postRun serverGenerate static filesDeploy to remote sites\nWelcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.\nQuick Start\nCreate a new post\n$ hexo new \"My New Post\"\n\n1More info: Writing\nRun server\n$ hexo server\n\n1More info: Server\nGenerate static files\n$ hexo generate\n\n1More info: Generating\nDeploy to remote sites\n$ hexo deploy\n\n1More info: Deployment",
+            "date_modified": "2019-12-04T17:55:23.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2019/12/05/life/",
+            "url": "https://blog.xujun.pro/2019/12/05/life/",
+            "title": "Life",
+            "summary": "\n",
+            "date_modified": "2019-12-04T17:55:24.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2019/12/06/travel/",
+            "url": "https://blog.xujun.pro/2019/12/06/travel/",
+            "title": "Travel",
+            "summary": "\n",
+            "date_modified": "2019-12-05T17:55:26.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2019/12/06/technology/",
+            "url": "https://blog.xujun.pro/2019/12/06/technology/",
+            "title": "Technology",
+            "summary": "\n",
+            "date_modified": "2019-12-05T17:55:25.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/02/hexo-theme-sakura-01/",
+            "url": "https://blog.xujun.pro/2018/12/02/hexo-theme-sakura-01/",
+            "title": "Hexo-Theme-Sakura-01",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-01T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/03/hexo-theme-sakura-02/",
+            "url": "https://blog.xujun.pro/2018/12/03/hexo-theme-sakura-02/",
+            "title": "Hexo-Theme-Sakura-02",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-02T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/05/hexo-theme-sakura-04/",
+            "url": "https://blog.xujun.pro/2018/12/05/hexo-theme-sakura-04/",
+            "title": "Hexo-Theme-Sakura-04",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-04T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/04/hexo-theme-sakura-03/",
+            "url": "https://blog.xujun.pro/2018/12/04/hexo-theme-sakura-03/",
+            "title": "Hexo-Theme-Sakura-03",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-03T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/06/hexo-theme-sakura-05/",
+            "url": "https://blog.xujun.pro/2018/12/06/hexo-theme-sakura-05/",
+            "title": "Hexo-Theme-Sakura-05",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-05T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/07/hexo-theme-sakura-06/",
+            "url": "https://blog.xujun.pro/2018/12/07/hexo-theme-sakura-06/",
+            "title": "Hexo-Theme-Sakura-06",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-06T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/08/hexo-theme-sakura-07/",
+            "url": "https://blog.xujun.pro/2018/12/08/hexo-theme-sakura-07/",
+            "title": "Hexo-Theme-Sakura-07",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-07T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/09/hexo-theme-sakura-08/",
+            "url": "https://blog.xujun.pro/2018/12/09/hexo-theme-sakura-08/",
+            "title": "Hexo-Theme-Sakura-08",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-08T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/10/hexo-theme-sakura-09/",
+            "url": "https://blog.xujun.pro/2018/12/10/hexo-theme-sakura-09/",
+            "title": "Hexo-Theme-Sakura-09",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-09T22:16:01.000Z"
+        },
+        {
+            "id": "https://blog.xujun.pro/2018/12/11/hexo-theme-sakura-10/",
+            "url": "https://blog.xujun.pro/2018/12/11/hexo-theme-sakura-10/",
+            "title": "Hexo-Theme-Sakura-10",
+            "summary": "hexo-sakura主题使用教程",
+            "image": "https://desk-fd.zol-img.com.cn/t_s960x600c5/g5/M00/01/0E/ChMkJlbKweiIFY_6AA3VjT9w7FMAALGfwFCj8AADdWl862.jpg",
+            "date_modified": "2018-12-10T22:16:01.000Z"
+        }
+    ]
+}
